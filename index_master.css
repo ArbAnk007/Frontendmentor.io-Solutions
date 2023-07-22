@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: hsl(212, 45%, 89%);
+    font-family: Arial;
+}
+
+.container{
+    text-align: center;
+    /* align-items: center; */
+    margin: auto;
+    background-color: white;
+    padding: 16px;
+    width: 250px;
+    border-radius: 16px;
+    margin-top: 300px;
+}
+
+img{
+    padding: 0;
+    width: 250px;
+    height: 256px;
+    border-radius: 16px;
+}
+
+p{
+    background-color: white;
+}
+
+#heading{
+    font-weight: bolder;
+    font-size: 18px;
+    padding: 12px;
+}
+
+#body{
+    font-size: 13px;
+    padding: 12px;
+    font-weight: lighter;
+}
